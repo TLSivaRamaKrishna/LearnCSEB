@@ -1,2 +1,3 @@
 hi welcome to git
 this is from cse-b
+I am adding thrid line
